@@ -58,9 +58,6 @@ This analysis was conducted for a fictional record label and focuses on:
 
 ---
 
-*Prepared by:*  
-Emin Abrahamian
-Abdulrahman Alabdulkarim 
-Nicole M. Batinovich    
-Miguel Rodríguez  
-Ignacio Salceda
+## 🤝 Credits
+- IE MBD Term 2 – Group 7
+- Built as part of IE MBD coursework (Machine Learning I)
