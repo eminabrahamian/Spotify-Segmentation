@@ -3,7 +3,7 @@
 This project applies unsupervised and supervised machine learning techniques to analyze a dataset of over 2,000 Spotify tracks. The goal is to understand the drivers of song popularity and develop models to predict future hits.
 
 ## 📁 Project Structure
-
+```
 Spotify-Segmentation/
 ├── data/
 │ ├── data.csv
@@ -12,6 +12,7 @@ Spotify-Segmentation/
 ├── Spotify Segmentation.ipynb
 ├── README.md
 └── requirements.txt
+```
 
 ## 📌 Objectives
 
