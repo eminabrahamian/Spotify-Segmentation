@@ -1,0 +1,439 @@
+Unnamed: 0,artist_genres,count,log_count,cluster,ID
+0,pop,994,6.902742737158593,3,Pop
+1,dance pop,538,6.289715570908997,3,Pop
+2,rap,383,5.950642552587727,3,Hip-Hop/Rap
+3,pop rap,305,5.723585101952381,3,Pop
+4,hip hop,250,5.5254529391317835,3,Hip-Hop/Rap
+5,r&b,231,5.446737372,3,R&B/Soul
+6,urban contemporary,214,5.3706380281276624,3,Other
+7,trap,134,4.905274778,3,Hip-Hop/Rap
+8,southern hip hop,132,4.890349128221754,3,Hip-Hop/Rap
+9,modern rock,128,4.859812404361672,3,Rock
+10,rock,127,4.852030263919617,3,Rock
+11,canadian pop,112,4.727387818712341,3,Pop
+12,edm,110,4.709530201312334,3,Electronic
+13,hip pop,98,4.59511985,3,Pop
+14,pop dance,92,4.532599493153255,3,Pop
+15,atl hip hop,91,4.5217885770490405,3,Hip-Hop/Rap
+16,uk pop,87,4.477336814478206,3,Pop
+17,neo mellow,85,4.454347296253507,3,Other
+18,gangster rap,83,4.430816798843313,3,Hip-Hop/Rap
+19,pop rock,80,4.394449154672438,3,Pop
+20,post-grunge,80,4.394449154672438,3,Other
+21,post-teen pop,75,4.330733340286331,3,Pop
+22,alternative metal,74,4.317488114,3,Metal
+23,dirty south rap,70,4.2626798770413155,3,Hip-Hop/Rap
+24,talent show,69,4.2484952420493585,3,Other
+25,permanent wave,68,4.234106505,3,Other
+26,contemporary r&b,58,4.077537444,1,R&B/Soul
+27,boy band,55,4.025351690735149,1,Other
+28,uk dance,51,3.951243718581427,1,Other
+29,nu metal,45,3.828641396489095,1,Metal
+30,melodic rap,45,3.828641396489095,1,Hip-Hop/Rap
+31,east coast hip hop,45,3.828641396489095,1,Hip-Hop/Rap
+32,neo soul,43,3.784189633918261,1,R&B/Soul
+33,art pop,40,3.7135720667043075,1,Pop
+34,trap latino,40,3.7135720667043075,1,Hip-Hop/Rap
+35,europop,40,3.7135720667043075,1,Pop
+36,urbano latino,39,3.6888794541139363,1,Latin
+37,british soul,39,3.6888794541139363,1,R&B/Soul
+38,miami hip hop,39,3.6888794541139363,1,Hip-Hop/Rap
+39,girl group,38,3.6635616461296463,1,Other
+40,reggaeton,38,3.6635616461296463,1,Latin
+41,electropop,37,3.6375861597263857,1,Pop
+42,pop punk,37,3.6375861597263857,1,Pop
+43,electro house,37,3.6375861597263857,1,Electronic
+44,house,35,3.583518938,1,Electronic
+45,chicago rap,34,3.5553480614894135,1,Hip-Hop/Rap
+46,canadian hip hop,34,3.5553480614894135,1,Hip-Hop/Rap
+47,country,33,3.526360524616161,1,Country/Folk
+48,progressive house,33,3.526360524616161,1,Electronic
+49,indietronica,31,3.4657359027997265,1,Other
+50,alternative rock,30,3.4339872044851463,1,Rock
+51,contemporary country,30,3.4339872044851463,1,Country/Folk
+52,metropopolis,30,3.4339872044851463,1,Pop
+53,country road,29,3.4011973816621555,1,Country/Folk
+54,latin pop,28,3.3672958299864737,1,Pop
+55,barbadian pop,28,3.3672958299864737,1,Pop
+56,viral pop,25,3.2580965380214817,1,Pop
+57,pop soul,25,3.2580965380214817,1,Pop
+58,old school atlanta hip hop,25,3.2580965380214817,1,Hip-Hop/Rap
+59,nan,24,3.2188758248682006,1,Other
+60,queens hip hop,24,3.2188758248682006,1,Hip-Hop/Rap
+61,piano rock,24,3.2188758248682006,1,Rock
+62,pov: indie,24,3.2188758248682006,1,Other
+63,candy pop,24,3.2188758248682006,1,Pop
+64,west coast rap,23,3.1780538303479453,1,Hip-Hop/Rap
+65,detroit hip hop,23,3.1780538303479453,1,Hip-Hop/Rap
+66,crunk,22,3.1354942159291497,1,Other
+67,conscious hip hop,22,3.1354942159291497,1,Hip-Hop/Rap
+68,dance rock,22,3.1354942159291497,1,Rock
+69,modern alternative rock,22,3.1354942159291497,1,Rock
+70,eurodance,21,3.0910424533583156,1,Other
+71,singer-songwriter pop,21,3.0910424533583156,1,Pop
+72,neon pop punk,20,3.044522437723423,1,Pop
+73,canadian contemporary r&b,20,3.044522437723423,1,R&B/Soul
+74,funk metal,18,2.9444389791664403,1,R&B/Soul
+75,progressive electro house,18,2.9444389791664403,1,Electronic
+76,folk-pop,17,2.8903717578961645,4,Pop
+77,garage rock,17,2.8903717578961645,4,Rock
+78,australian pop,17,2.8903717578961645,4,Pop
+79,hardcore hip hop,16,2.833213344056216,4,Hip-Hop/Rap
+80,big room,15,2.772588722239781,4,Other
+81,dfw rap,15,2.772588722239781,4,Hip-Hop/Rap
+82,trap queen,15,2.772588722239781,4,Hip-Hop/Rap
+83,k-pop,15,2.772588722239781,4,Pop
+84,rap metal,15,2.772588722239781,4,Hip-Hop/Rap
+85,slap house,14,2.708050201,4,Electronic
+86,alt z,14,2.708050201,4,Pop
+87,indie rock,14,2.708050201,4,Rock
+88,swedish electropop,14,2.708050201,4,Pop
+89,south carolina hip hop,14,2.708050201,4,Hip-Hop/Rap
+90,tropical house,13,2.6390573296152584,4,Electronic
+91,brostep,13,2.6390573296152584,4,Other
+92,australian dance,12,2.5649493574615367,4,Other
+93,mexican pop,12,2.5649493574615367,4,Pop
+94,country dawn,12,2.5649493574615367,4,Country/Folk
+95,swedish pop,12,2.5649493574615367,4,Pop
+96,canadian rock,12,2.5649493574615367,4,Rock
+97,lgbtq+ hip hop,12,2.5649493574615367,4,Hip-Hop/Rap
+98,singer-songwriter,12,2.5649493574615367,4,Country/Folk
+99,new wave pop,11,2.4849066497880004,4,Pop
+100,stomp and holler,11,2.4849066497880004,4,Other
+101,punk,11,2.4849066497880004,4,Other
+102,lilith,11,2.4849066497880004,4,Other
+103,new orleans rap,10,2.3978952727983707,4,Hip-Hop/Rap
+104,indie poptimism,10,2.3978952727983707,4,Pop
+105,colombian pop,10,2.3978952727983707,4,Pop
+106,g funk,10,2.3978952727983707,4,R&B/Soul
+107,neo-synthpop,10,2.3978952727983707,4,Pop
+108,reggaeton colombiano,9,2.3025850929940455,4,Latin
+109,britpop,9,2.3025850929940455,4,Pop
+110,disco house,9,2.3025850929940455,4,Electronic
+111,german techno,9,2.3025850929940455,4,Electronic
+112,st louis rap,9,2.3025850929940455,4,Hip-Hop/Rap
+113,dancehall,8,2.197224577336219,4,Other
+114,cali rap,8,2.197224577336219,4,Hip-Hop/Rap
+115,electronic trap,8,2.197224577336219,4,Hip-Hop/Rap
+116,pixie,8,2.197224577336219,4,Other
+117,puerto rican pop,8,2.197224577336219,4,Pop
+118,reggae fusion,8,2.197224577336219,4,Other
+119,new jack swing,8,2.197224577336219,4,Jazz/Blues
+120,filter house,8,2.197224577336219,4,Electronic
+121,indie pop rap,8,2.197224577336219,4,Pop
+122,philly rap,7,2.0794415416798357,4,Hip-Hop/Rap
+123,k-pop boy group,7,2.0794415416798357,4,Pop
+124,virginia hip hop,7,2.0794415416798357,4,Hip-Hop/Rap
+125,acoustic pop,7,2.0794415416798357,4,Pop
+126,viral trap,7,2.0794415416798357,4,Hip-Hop/Rap
+127,funk rock,7,2.0794415416798357,4,Rock
+128,irish rock,7,2.0794415416798357,4,Rock
+129,nz pop,7,2.0794415416798357,4,Pop
+130,grime,7,2.0794415416798357,4,Other
+131,baroque pop,7,2.0794415416798357,4,Pop
+132,dutch edm,7,2.0794415416798357,4,Electronic
+133,australian hip hop,7,2.0794415416798357,4,Hip-Hop/Rap
+134,alternative dance,7,2.0794415416798357,4,Other
+135,modern country rock,7,2.0794415416798357,4,Rock
+136,swedish synthpop,6,1.9459101490553132,0,Pop
+137,jazz pop,6,1.9459101490553132,0,Pop
+138,pittsburgh rap,6,1.9459101490553132,0,Hip-Hop/Rap
+139,rap rock,6,1.9459101490553132,0,Hip-Hop/Rap
+140,vocal house,6,1.9459101490553132,0,Electronic
+141,trance,6,1.9459101490553132,0,Electronic
+142,escape room,6,1.9459101490553132,0,Other
+143,adult standards,6,1.9459101490553132,0,Other
+144,kentucky hip hop,6,1.9459101490553132,0,Hip-Hop/Rap
+145,scandipop,6,1.9459101490553132,0,Pop
+146,emo,6,1.9459101490553132,0,Other
+147,complextro,6,1.9459101490553132,0,Other
+148,k-pop girl group,6,1.9459101490553132,0,Pop
+149,idol,6,1.9459101490553132,0,Other
+150,pop r&b,6,1.9459101490553132,0,Pop
+151,scottish singer-songwriter,5,1.791759469228055,0,Country/Folk
+152,brooklyn drill,5,1.791759469228055,0,Other
+153,celtic rock,5,1.791759469228055,0,Rock
+154,big beat,5,1.791759469228055,0,Other
+155,classic rock,5,1.791759469228055,0,Rock
+156,bubblegum dance,5,1.791759469228055,0,Other
+157,emo rap,5,1.791759469228055,0,Hip-Hop/Rap
+158,neo-singer-songwriter,5,1.791759469228055,0,Country/Folk
+159,nyc rap,5,1.791759469228055,0,Hip-Hop/Rap
+160,uk garage,5,1.791759469228055,0,Other
+161,uk alternative pop,5,1.791759469228055,0,Pop
+162,afrofuturism,5,1.791759469228055,0,Other
+163,north carolina hip hop,5,1.791759469228055,0,Hip-Hop/Rap
+164,pop emo,5,1.791759469228055,0,Pop
+165,oakland hip hop,5,1.791759469228055,0,Hip-Hop/Rap
+166,stomp pop,5,1.791759469228055,0,Pop
+167,latin hip hop,5,1.791759469228055,0,Hip-Hop/Rap
+168,ohio hip hop,5,1.791759469228055,0,Hip-Hop/Rap
+169,sheffield indie,5,1.791759469228055,0,Other
+170,canadian latin,5,1.791759469228055,0,Latin
+171,la indie,5,1.791759469228055,0,Other
+172,pop edm,5,1.791759469228055,0,Pop
+173,lounge,5,1.791759469228055,0,Other
+174,country pop,4,1.6094379124341003,0,Pop
+175,dutch house,4,1.6094379124341003,0,Electronic
+176,chamber pop,4,1.6094379124341003,0,Pop
+177,classic oklahoma country,4,1.6094379124341003,0,Country/Folk
+178,downtempo,4,1.6094379124341003,0,Other
+179,indie pop,4,1.6094379124341003,0,Pop
+180,blues rock,4,1.6094379124341003,0,Rock
+181,golden age hip hop,4,1.6094379124341003,0,Hip-Hop/Rap
+182,old school hip hop,4,1.6094379124341003,0,Hip-Hop/Rap
+183,drum and bass,4,1.6094379124341003,0,Other
+184,hard rock,4,1.6094379124341003,0,Rock
+185,trip hop,4,1.6094379124341003,0,Other
+186,bedroom pop,4,1.6094379124341003,0,Pop
+187,chicago bop,4,1.6094379124341003,0,Other
+188,political hip hop,4,1.6094379124341003,0,Hip-Hop/Rap
+189,electro,4,1.6094379124341003,0,Other
+190,electropowerpop,4,1.6094379124341003,0,Pop
+191,alternative hip hop,4,1.6094379124341003,0,Hip-Hop/Rap
+192,houston rap,4,1.6094379124341003,0,Hip-Hop/Rap
+193,latin viral pop,4,1.6094379124341003,0,Pop
+194,mississippi hip hop,4,1.6094379124341003,0,Hip-Hop/Rap
+195,dancefloor dnb,4,1.6094379124341003,0,Other
+196,uk funky,4,1.6094379124341003,0,R&B/Soul
+197,minnesota hip hop,4,1.6094379124341003,0,Hip-Hop/Rap
+198,uk hip hop,4,1.6094379124341003,0,Hip-Hop/Rap
+199,electronica,4,1.6094379124341003,0,Electronic
+200,glam rock,4,1.6094379124341003,0,Rock
+201,seattle hip hop,4,1.6094379124341003,0,Hip-Hop/Rap
+202,socal pop punk,3,1.3862943611198906,0,Pop
+203,etherpop,3,1.3862943611198906,0,Pop
+204,hollywood,3,1.3862943611198906,0,Other
+205,show tunes,3,1.3862943611198906,0,Other
+206,pop nacional,3,1.3862943611198906,0,Pop
+207,alternative r&b,3,1.3862943611198906,0,R&B/Soul
+208,deep underground hip hop,3,1.3862943611198906,0,Hip-Hop/Rap
+209,rage rap,3,1.3862943611198906,0,Hip-Hop/Rap
+210,bouncy house,3,1.3862943611198906,0,Electronic
+211,moombahton,3,1.3862943611198906,0,Other
+212,danish pop,3,1.3862943611198906,0,Pop
+213,bronx hip hop,3,1.3862943611198906,0,Hip-Hop/Rap
+214,modern alternative pop,3,1.3862943611198906,0,Pop
+215,mellow gold,3,1.3862943611198906,0,Other
+216,mexican classic rock,3,1.3862943611198906,0,Rock
+217,modern blues rock,3,1.3862943611198906,0,Rock
+218,hip house,3,1.3862943611198906,0,Electronic
+219,afrobeats,3,1.3862943611198906,0,Other
+220,australian indie,3,1.3862943611198906,0,Other
+221,uk contemporary r&b,3,1.3862943611198906,0,R&B/Soul
+222,new rave,3,1.3862943611198906,0,Other
+223,melbourne bounce international,3,1.3862943611198906,0,Other
+224,welsh rock,3,1.3862943611198906,0,Rock
+225,modern power pop,3,1.3862943611198906,0,Pop
+226,instrumental grime,3,1.3862943611198906,0,Other
+227,harlem hip hop,3,1.3862943611198906,0,Hip-Hop/Rap
+228,rap latina,3,1.3862943611198906,0,Hip-Hop/Rap
+229,new jersey rap,3,1.3862943611198906,0,Hip-Hop/Rap
+230,german dance,3,1.3862943611198906,0,Other
+231,punk blues,3,1.3862943611198906,0,Jazz/Blues
+232,reggaeton flow,3,1.3862943611198906,0,Latin
+233,battle rap,2,1.0986122886681096,2,Hip-Hop/Rap
+234,comedy rap,2,1.0986122886681096,2,Hip-Hop/Rap
+235,canadian punk,2,1.0986122886681096,2,Other
+236,viral rap,2,1.0986122886681096,2,Hip-Hop/Rap
+237,canadian pop punk,2,1.0986122886681096,2,Pop
+238,gen z singer-songwriter,2,1.0986122886681096,2,Country/Folk
+239,atl trap,2,1.0986122886681096,2,Hip-Hop/Rap
+240,industrial metal,2,1.0986122886681096,2,Metal
+241,italo dance,2,1.0986122886681096,2,Other
+242,pop house,2,1.0986122886681096,2,Pop
+243,melancholia,2,1.0986122886681096,2,Other
+244,indie folk,2,1.0986122886681096,2,Country/Folk
+245,eau claire indie,2,1.0986122886681096,2,Other
+246,uk americana,2,1.0986122886681096,2,Country/Folk
+247,pagode baiano,2,1.0986122886681096,2,Other
+248,funk rj,2,1.0986122886681096,2,R&B/Soul
+249,sophisti-pop,2,1.0986122886681096,2,Pop
+250,grunge,2,1.0986122886681096,2,Other
+251,soul,2,1.0986122886681096,2,R&B/Soul
+252,australian talent show,2,1.0986122886681096,2,Other
+253,madchester,2,1.0986122886681096,2,Other
+254,beatlesque,2,1.0986122886681096,2,Other
+255,funk pop,2,1.0986122886681096,2,Pop
+256,hamburg electronic,2,1.0986122886681096,2,Electronic
+257,black americana,2,1.0986122886681096,2,Country/Folk
+258,soft rock,2,1.0986122886681096,2,Rock
+259,plugg,2,1.0986122886681096,2,Other
+260,florida rap,2,1.0986122886681096,2,Hip-Hop/Rap
+261,florida drill,2,1.0986122886681096,2,Other
+262,pluggnb,2,1.0986122886681096,2,Other
+263,memphis hip hop,2,1.0986122886681096,2,Hip-Hop/Rap
+264,san diego rap,2,1.0986122886681096,2,Hip-Hop/Rap
+265,trap boricua,2,1.0986122886681096,2,Hip-Hop/Rap
+266,r&b en espanol,2,1.0986122886681096,2,R&B/Soul
+267,israeli pop,2,1.0986122886681096,2,Pop
+268,shimmer pop,2,1.0986122886681096,2,Pop
+269,irish pop,2,1.0986122886681096,2,Pop
+270,sertanejo universitario,2,1.0986122886681096,2,Other
+271,asian american hip hop,2,1.0986122886681096,2,Hip-Hop/Rap
+272,australian electropop,2,1.0986122886681096,2,Pop
+273,dream pop,2,1.0986122886681096,2,Pop
+274,modern folk rock,2,1.0986122886681096,2,Rock
+275,bass house,2,1.0986122886681096,2,Electronic
+276,country rap,2,1.0986122886681096,2,Hip-Hop/Rap
+277,deep house,2,1.0986122886681096,2,Electronic
+278,brighton indie,2,1.0986122886681096,2,Other
+279,dance-punk,2,1.0986122886681096,2,Other
+280,atlanta bass,2,1.0986122886681096,2,Other
+281,supergroup,2,1.0986122886681096,2,Other
+282,teen pop,2,1.0986122886681096,2,Pop
+283,gauze pop,2,1.0986122886681096,2,Pop
+284,shiver pop,2,1.0986122886681096,2,Pop
+285,indie rock italiano,2,1.0986122886681096,2,Rock
+286,italian pop,2,1.0986122886681096,2,Pop
+287,argentine hip hop,2,1.0986122886681096,2,Hip-Hop/Rap
+288,trap argentino,2,1.0986122886681096,2,Hip-Hop/Rap
+289,indie anthem-folk,2,1.0986122886681096,2,Country/Folk
+290,happy hardcore,2,1.0986122886681096,2,Other
+291,breakbeat,2,1.0986122886681096,2,Other
+292,rave,2,1.0986122886681096,2,Other
+293,scottish rock,2,1.0986122886681096,2,Rock
+294,birmingham hip hop,2,1.0986122886681096,2,Hip-Hop/Rap
+295,movie tunes,2,1.0986122886681096,2,Other
+296,belgian pop,2,1.0986122886681096,2,Pop
+297,canadian trap,2,1.0986122886681096,2,Hip-Hop/Rap
+298,bedroom soul,2,1.0986122886681096,2,R&B/Soul
+299,afro r&b,1,0.6931471805599453,2,R&B/Soul
+300,melbourne bounce,1,0.6931471805599453,2,Other
+301,virgin islands reggae,1,0.6931471805599453,2,Other
+302,australian rock,1,0.6931471805599453,2,Rock
+303,hands up,1,0.6931471805599453,2,Other
+304,moldovan pop,1,0.6931471805599453,2,Pop
+305,finnish alternative rock,1,0.6931471805599453,2,Rock
+306,rock en espanol,1,0.6931471805599453,2,Rock
+307,diva house,1,0.6931471805599453,2,Electronic
+308,bounce,1,0.6931471805599453,2,Other
+309,chicago hardcore,1,0.6931471805599453,2,Other
+310,baton rouge rap,1,0.6931471805599453,2,Hip-Hop/Rap
+311,norwegian pop,1,0.6931471805599453,2,Pop
+312,swedish tropical house,1,0.6931471805599453,2,Electronic
+313,operatic pop,1,0.6931471805599453,2,Pop
+314,belgian dance,1,0.6931471805599453,2,Other
+315,classic house,1,0.6931471805599453,2,Electronic
+316,rock-and-roll,1,0.6931471805599453,2,Rock
+317,rockabilly,1,0.6931471805599453,2,Rock
+318,contemporary vocal jazz,1,0.6931471805599453,2,Jazz/Blues
+319,vocal jazz,1,0.6931471805599453,2,Jazz/Blues
+320,canadian singer-songwriter,1,0.6931471805599453,2,Country/Folk
+321,minneapolis sound,1,0.6931471805599453,2,Other
+322,modern salsa,1,0.6931471805599453,2,Latin
+323,salsa,1,0.6931471805599453,2,Latin
+324,tropical,1,0.6931471805599453,2,Latin
+325,album rock,1,0.6931471805599453,2,Rock
+326,celtic,1,0.6931471805599453,2,Other
+327,middle earth,1,0.6931471805599453,2,Other
+328,classic schlager,1,0.6931471805599453,2,Other
+329,oktoberfest,1,0.6931471805599453,2,Other
+330,schlager,1,0.6931471805599453,2,Other
+331,chicago punk,1,0.6931471805599453,2,Other
+332,hardcore punk,1,0.6931471805599453,2,Other
+333,soca,1,0.6931471805599453,2,Other
+334,vincy soca,1,0.6931471805599453,2,Other
+335,chicano rap,1,0.6931471805599453,2,Hip-Hop/Rap
+336,texas latin rap,1,0.6931471805599453,2,Hip-Hop/Rap
+337,industrial,1,0.6931471805599453,2,Other
+338,industrial rock,1,0.6931471805599453,2,Rock
+339,glam metal,1,0.6931471805599453,2,Metal
+340,canadian metal,1,0.6931471805599453,2,Metal
+341,bhangra,1,0.6931471805599453,2,Other
+342,classic bhangra,1,0.6931471805599453,2,Other
+343,desi hip hop,1,0.6931471805599453,2,Hip-Hop/Rap
+344,detroit rock,1,0.6931471805599453,2,Rock
+345,new romantic,1,0.6931471805599453,2,Other
+346,new wave,1,0.6931471805599453,2,Other
+347,australian alternative rock,1,0.6931471805599453,2,Rock
+348,german pop,1,0.6931471805599453,2,Pop
+349,finnish edm,1,0.6931471805599453,2,Electronic
+350,british invasion,1,0.6931471805599453,2,Other
+351,gospel,1,0.6931471805599453,2,Other
+352,gospel r&b,1,0.6931471805599453,2,R&B/Soul
+353,athens indie,1,0.6931471805599453,2,Other
+354,bahamian pop,1,0.6931471805599453,2,Pop
+355,broadway,1,0.6931471805599453,2,Other
+356,norwegian indie,1,0.6931471805599453,2,Other
+357,alternative pop rock,1,0.6931471805599453,2,Pop
+358,pop venezolano,1,0.6931471805599453,2,Pop
+359,art rock,1,0.6931471805599453,2,Rock
+360,mambo chileno,1,0.6931471805599453,2,Other
+361,urbano chileno,1,0.6931471805599453,2,Other
+362,dark clubbing,1,0.6931471805599453,2,Other
+363,belgian edm,1,0.6931471805599453,2,Electronic
+364,british alternative rock,1,0.6931471805599453,2,Rock
+365,ukg revival,1,0.6931471805599453,2,Other
+366,british singer-songwriter,1,0.6931471805599453,2,Country/Folk
+367,portland hip hop,1,0.6931471805599453,2,Hip-Hop/Rap
+368,underground hip hop,1,0.6931471805599453,2,Hip-Hop/Rap
+369,hawaiian hip hop,1,0.6931471805599453,2,Hip-Hop/Rap
+370,cloud rap,1,0.6931471805599453,2,Hip-Hop/Rap
+371,nyc pop,1,0.6931471805599453,2,Pop
+372,tennessee hip hop,1,0.6931471805599453,2,Hip-Hop/Rap
+373,latin arena pop,1,0.6931471805599453,2,Pop
+374,nigerian pop,1,0.6931471805599453,2,Pop
+375,melodic drill,1,0.6931471805599453,2,Other
+376,norwegian hip hop,1,0.6931471805599453,2,Hip-Hop/Rap
+377,lds youth,1,0.6931471805599453,2,Other
+378,canadian old school hip hop,1,0.6931471805599453,2,Hip-Hop/Rap
+379,acid house,1,0.6931471805599453,2,Electronic
+380,skate punk,1,0.6931471805599453,2,Other
+381,leicester indie,1,0.6931471805599453,2,Other
+382,filmi,1,0.6931471805599453,2,Other
+383,wrestling,1,0.6931471805599453,2,Other
+384,rock independant francais,1,0.6931471805599453,2,Rock
+385,christian alternative rock,1,0.6931471805599453,2,Rock
+386,christian music,1,0.6931471805599453,2,Other
+387,christian rock,1,0.6931471805599453,2,Rock
+388,hardcore techno,1,0.6931471805599453,2,Electronic
+389,quiet storm,1,0.6931471805599453,2,R&B/Soul
+390,swedish idol pop,1,0.6931471805599453,2,Pop
+391,g-house,1,0.6931471805599453,2,Electronic
+392,glee club,1,0.6931471805599453,2,Other
+393,australian house,1,0.6931471805599453,2,Electronic
+394,northern irish indie,1,0.6931471805599453,2,Other
+395,london rap,1,0.6931471805599453,2,Hip-Hop/Rap
+396,swedish indie pop,1,0.6931471805599453,2,Pop
+397,french shoegaze,1,0.6931471805599453,2,Other
+398,french synthpop,1,0.6931471805599453,2,Pop
+399,romanian pop,1,0.6931471805599453,2,Pop
+400,sertanejo,1,0.6931471805599453,2,Other
+401,seattle indie,1,0.6931471805599453,2,Other
+402,washington indie,1,0.6931471805599453,2,Other
+403,english indie rock,1,0.6931471805599453,2,Rock
+404,speed garage,1,0.6931471805599453,2,Other
+405,garage rock revival,1,0.6931471805599453,2,Rock
+406,hyphy,1,0.6931471805599453,2,Other
+407,screamo,1,0.6931471805599453,2,Other
+408,south african rock,1,0.6931471805599453,2,Rock
+409,old school bassline,1,0.6931471805599453,2,Other
+410,rap kreyol,1,0.6931471805599453,2,Hip-Hop/Rap
+411,k-rap,1,0.6931471805599453,2,Hip-Hop/Rap
+412,korean old school hip hop,1,0.6931471805599453,2,Hip-Hop/Rap
+413,canadian electropop,1,0.6931471805599453,2,Pop
+414,grave wave,1,0.6931471805599453,2,Other
+415,israeli rock,1,0.6931471805599453,2,Rock
+416,chill pop,1,0.6931471805599453,2,Pop
+417,comic,1,0.6931471805599453,2,Other
+418,dutch trance,1,0.6931471805599453,2,Electronic
+419,future house,1,0.6931471805599453,2,Electronic
+420,french indie pop,1,0.6931471805599453,2,Pop
+421,french rock,1,0.6931471805599453,2,Rock
+422,electro trash,1,0.6931471805599453,2,Other
+423,rap conscient,1,0.6931471805599453,2,Hip-Hop/Rap
+424,sad lo-fi,1,0.6931471805599453,2,Other
+425,sad rap,1,0.6931471805599453,2,Hip-Hop/Rap
+426,rhode island rap,1,0.6931471805599453,2,Hip-Hop/Rap
+427,dutch pop,1,0.6931471805599453,2,Pop
+428,slowed and reverb,1,0.6931471805599453,2,Other
+429,oxford indie,1,0.6931471805599453,2,Other
+430,canadian indie,1,0.6931471805599453,2,Other
+431,deep euro house,1,0.6931471805599453,2,Electronic
+432,new french touch,1,0.6931471805599453,2,Other
+433,irish singer-songwriter,1,0.6931471805599453,2,Country/Folk
+434,australian psych,1,0.6931471805599453,2,Other
+435,neo-psychedelic,1,0.6931471805599453,2,Other
+436,icelandic indie,1,0.6931471805599453,2,Other
+437,icelandic rock,1,0.6931471805599453,2,Rock
